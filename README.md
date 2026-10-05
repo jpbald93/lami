@@ -104,7 +104,7 @@ Desargues, Monge, Simson, Napoleon and Lami in Lean 4* (J. Bald, draft, 2026).
   title        = {Lami's theorem in Lean 4},
   year         = {2026},
   howpublished = {\url{https://github.com/jpbald93/lami}},
-  note         = {Lean 4 + Mathlib v4.33.1. Commit: [TODO]}
+  note         = {Lean 4 + Mathlib v4.33.1. Commit: a7a039be9eae4ca1d15bbc51b655629f3691ea3a}
 }
 ```
 

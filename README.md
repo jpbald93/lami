@@ -96,7 +96,7 @@ responsible for the result. The Lean kernel checks every proof.
 ## Citation
 
 This repository accompanies the paper *Classical plane geometry by coordinate certificates:
-Desargues, Monge, Simson, Napoleon and Lami in Lean 4* (J. Bald, draft, 2026).
+Desargues, Monge, Simson, Napoleon and Lami in Lean 4* (J. Bald, 2026).
 
 ```bibtex
 @misc{bald2026lami,
@@ -104,7 +104,7 @@ Desargues, Monge, Simson, Napoleon and Lami in Lean 4* (J. Bald, draft, 2026).
   title        = {Lami's theorem in Lean 4},
   year         = {2026},
   howpublished = {\url{https://github.com/jpbald93/lami}},
-  note         = {Lean 4 + Mathlib v4.33.1. Commit: a7a039be9eae4ca1d15bbc51b655629f3691ea3a}
+  note         = {Lean 4 + Mathlib v4.33.1. Commit: ea6b038b1a3eebd9b02465650901f4b5d4ddaf19}
 }
 ```
 

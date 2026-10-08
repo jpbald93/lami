@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Lami's theorem in Lean 4"
+type: software
+authors:
+  - family-names: Bald
+    given-names: Josh
+    affiliation: "Independent researcher, Ontario, Canada"
+    email: jpbald93@gmail.com
+    orcid: "https://orcid.org/0009-0002-1317-6489"
+license: Apache-2.0
+repository-code: "https://github.com/jpbald93/lami"
+commit: "ea6b038b1a3eebd9b02465650901f4b5d4ddaf19"
+date-released: "2026-10-07"
+preferred-citation:
+  type: article
+  title: "Classical plane geometry by coordinate certificates: Desargues, Monge, Simson, Napoleon and Lami in Lean 4"
+  authors:
+    - family-names: Bald
+      given-names: Josh
+      orcid: "https://orcid.org/0009-0002-1317-6489"
+  year: 2026
